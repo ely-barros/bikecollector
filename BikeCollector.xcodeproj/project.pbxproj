@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		856F638821AB22B700366F4E /* Trek_SC_2019.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 856F638721AB22B700366F4E /* Trek_SC_2019.jpeg */; };
+		856F638A21AB240C00366F4E /* BikeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 856F638921AB240C00366F4E /* BikeViewController.swift */; };
 		85EB809521A825CC003A8F39 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85EB809421A825CC003A8F39 /* AppDelegate.swift */; };
 		85EB809721A825CC003A8F39 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85EB809621A825CC003A8F39 /* ViewController.swift */; };
 		85EB809A21A825CC003A8F39 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85EB809821A825CC003A8F39 /* Main.storyboard */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		856F638721AB22B700366F4E /* Trek_SC_2019.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Trek_SC_2019.jpeg; sourceTree = "<group>"; };
+		856F638921AB240C00366F4E /* BikeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeViewController.swift; sourceTree = "<group>"; };
 		85EB809121A825CC003A8F39 /* BikeCollector.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BikeCollector.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		85EB809421A825CC003A8F39 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		85EB809621A825CC003A8F39 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,7 +62,9 @@
 			children = (
 				85EB809421A825CC003A8F39 /* AppDelegate.swift */,
 				85EB809621A825CC003A8F39 /* ViewController.swift */,
+				856F638721AB22B700366F4E /* Trek_SC_2019.jpeg */,
 				85EB809821A825CC003A8F39 /* Main.storyboard */,
+				856F638921AB240C00366F4E /* BikeViewController.swift */,
 				85EB809E21A825CE003A8F39 /* Assets.xcassets */,
 				85EB80A021A825CE003A8F39 /* LaunchScreen.storyboard */,
 				85EB80A321A825CE003A8F39 /* Info.plist */,
@@ -128,6 +134,7 @@
 				85EB80A221A825CE003A8F39 /* LaunchScreen.storyboard in Resources */,
 				85EB809F21A825CE003A8F39 /* Assets.xcassets in Resources */,
 				85EB809A21A825CC003A8F39 /* Main.storyboard in Resources */,
+				856F638821AB22B700366F4E /* Trek_SC_2019.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				85EB809721A825CC003A8F39 /* ViewController.swift in Sources */,
+				856F638A21AB240C00366F4E /* BikeViewController.swift in Sources */,
 				85EB809521A825CC003A8F39 /* AppDelegate.swift in Sources */,
 				85EB809D21A825CC003A8F39 /* BikeCollector.xcdatamodeld in Sources */,
 			);
